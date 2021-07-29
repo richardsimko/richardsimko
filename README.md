@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardsimko)](https://github.com/anuraghazra/github-readme-stats)
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardsimko&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
