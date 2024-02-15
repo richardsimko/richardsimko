@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Richard's GitHub stats](https://github-readme-stats-blue-mu-42.vercel.app/api?username=richardsimko)](https://github-readme-stats-blue-mu-42.vercel.app/api?username=richardsimko)
+
 <!--
 **richardsimko/richardsimko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
